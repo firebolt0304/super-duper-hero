@@ -1,0 +1,21 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #054b5a;
+	text-align: center;
+	
+}
+
+
+header h1{
+	    color: whitesmoke;
+    font-family: fantasy;
+}
+
+header img{
+	border-radius: 200px;
+    border: 20px solid #00b386;
+}
+}
