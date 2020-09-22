@@ -5,16 +5,85 @@ body{
 header{
 	background-color: #054b5a;
 	text-align: center;
+    height: 500px;
 	
 }
 
 
 header h1{
-	    color: whitesmoke;
-  		font-family: 'Roboto', sans-serif;
+    color: beige;
+    font-size: 45px;
+    word-spacing: 20px;
+  		
+}
+
+h1, h2{
+	font-family: 'Abril Fatface', cursive;
+	color: black;
+	text-align: center;
 }
 
 header img{
 	border-radius: 200px;
     border: 20px solid #00b386;
+    height: 350px;
 }
+
+main{
+	background-color: black;
+	max-width: 1200px;
+	margin: 0 auto;
+	line-height: 30px;
+	color: #00b386;
+}
+
+main img
+{
+	max-width: 100%;
+
+}
+main h2,main p
+{
+color:#00b386;
+}
+
+main ol, main a{
+	color: beige;
+}
+
+
+h2{
+	font-size: 32px;
+	font-style: bold;
+}
+
+
+ul, ol, p{
+	
+	font-family: "Times New Roman", Times, serif;
+    font-size: 24px;
+}
+
+footer a
+{
+ color: #c603fc;
+}
+
+
+a:hover {
+	background-color: purple;
+	color:white;
+
+}
+
+footer p 
+{
+  color: #03fcad;
+}
+
+footer{
+	background-color: black;
+    height: 50px;
+}
+
+
