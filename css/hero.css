@@ -12,7 +12,7 @@ header{
 
 header h1{
     color: beige;
-    font-size: 45px;
+    font-size: 50px;
     word-spacing: 20px;
   		
 }
@@ -21,6 +21,7 @@ h1, h2{
 	font-family: 'Abril Fatface', cursive;
 	color: black;
 	text-align: center;
+	word-spacing: 22px;
 }
 
 header img{
@@ -31,10 +32,10 @@ header img{
 
 main{
 	background-color: black;
-	max-width: 1200px;
+	max-width: 1523px;
 	margin: 0 auto;
-	line-height: 30px;
-	color: #00b386;
+	line-height: 50px;
+	
 }
 
 main img
@@ -42,18 +43,18 @@ main img
 	max-width: 100%;
 
 }
-main h2,main p
+main h2
 {
-color:#00b386;
+color: #00b386;
 }
 
-main ol, main a{
+main ol, main a, main p{
 	color: beige;
 }
 
 
 h2{
-	font-size: 32px;
+	font-size: 36px;
 	font-style: bold;
 }
 
