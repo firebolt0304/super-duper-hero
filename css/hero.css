@@ -5,7 +5,9 @@ body{
 header{
 	background-color: #054b5a;
 	text-align: center;
-    height: 500px;
+    height: 550px;
+    padding: 50px 50px;
+
 	
 }
 
@@ -13,7 +15,7 @@ header{
 header h1{
     color: beige;
     font-size: 50px;
-    word-spacing: 20px;
+    word-spacing: 22px;
   		
 }
 
@@ -32,9 +34,10 @@ header img{
 
 main{
 	background-color: black;
-	max-width: 1523px;
+	max-width: 1520px;
 	margin: 0 auto;
-	line-height: 50px;
+	line-height: 52px;
+	height: 100%;
 	
 }
 
@@ -45,7 +48,9 @@ main img
 }
 main h2
 {
-color: #00b386;
+	color: #00b386;
+	border-radius: 200px;
+    border: 20px solid #00b386;
 }
 
 main ol, main a, main p{
@@ -80,11 +85,16 @@ a:hover {
 footer p 
 {
   color: #03fcad;
+
 }
 
 footer{
 	background-color: black;
     height: 50px;
+    font-size: 29px;
+    text-align: center;
+    margin: 0;
+    padding: 30px 30px;
 }
 
 
